@@ -56,8 +56,8 @@ client.on('message', message => {
 
   catch (error) {
 	console.error(error);
-	message.reply('there was an error trying to execute that command!');
+	message.reply('Oops! Er is een foutje opgetreden. Spreek 1 van de lesgevers aan!');
   }
 });
 
-client.login("token - Maxim Only");
+client.login("ODE2NjAxNTg0OTA0NDM3Nzcw.YD9VfQ.jgsB2r-qDKRT6le8v32X_gko2YY");
