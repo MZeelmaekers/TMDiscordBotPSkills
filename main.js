@@ -60,4 +60,4 @@ client.on('message', message => {
   }
 });
 
-client.login("ODE2NjAxNTg0OTA0NDM3Nzcw.YD9VfQ.mDsAiVU2nvSqjHataeQfbPURMuA");
+client.login("token - Maxim Only");
