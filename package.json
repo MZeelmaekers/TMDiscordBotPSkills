@@ -1,0 +1,24 @@
+{
+  "name": "alex_bot",
+  "version": "1.0.0",
+  "description": "bot dat ons zal helpen",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MZeelmaekers/TMDiscordBotPSkills.git"
+  },
+  "author": "MZ, AD, RC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MZeelmaekers/TMDiscordBotPSkills/issues"
+  },
+  "homepage": "https://github.com/MZeelmaekers/TMDiscordBotPSkills#readme"
+}
